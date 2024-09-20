@@ -12,9 +12,6 @@ Hello, I'm Uğur Nalbant 🎮<br>I am a 3rd year Computer Engineering student wh
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UgurNlbnt&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=UgurNlbnt&icon=0&color=0)](https://visitcount.itsvg.in)
 
